@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta property="og:type" content="article">
 <meta property="og:title" content="hello zhengge">
-<meta property="og:url" content="http://blog.tjnjnk.com/20180514">
+<meta property="og:url" content="http://blog.tjnjnk.com/uncategorized/hello-zhengge">
 <meta property="og:site_name" content="Hexo">
 <meta property="og:locale" content="default">
 <meta property="og:updated_time" content="2018-05-14T09:40:05.709Z">
@@ -163,7 +163,7 @@
   
 
         
-        <a href="/20180514" class="archive-article-date">
+        <a href="/uncategorized/hello-zhengge" class="archive-article-date">
   	<time datetime="2018-05-14T09:40:05.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-05-14</time>
 </a>
         
@@ -250,7 +250,7 @@
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//pan.baidu.com/share/qrcode?url=http://blog.tjnjnk.com/20180514" alt="微信分享二维码">
+      <img src="//pan.baidu.com/share/qrcode?url=http://blog.tjnjnk.com/uncategorized/hello-zhengge" alt="微信分享二维码">
     </div>
 </div>
 
@@ -264,7 +264,7 @@
   
 <nav id="article-nav">
   
-    <a href="/20180515" id="article-nav-newer" class="article-nav-link-wrap">
+    <a href="/uncategorized/hello-world" id="article-nav-newer" class="article-nav-link-wrap">
       <i class="icon-circle-left"></i>
       <div class="article-nav-title">
         
@@ -440,34 +440,6 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
 
     
     	<section class="tools-section tools-section-friends" q-show="friends">
-  		
-        <ul class="search-ul">
-          
-            <li class="search-li">
-              <a href="http://localhost:4000/" target="_blank" class="search-title"><i class="icon-quo-left icon"></i>友情链接1</a>
-            </li>
-          
-            <li class="search-li">
-              <a href="http://localhost:4000/" target="_blank" class="search-title"><i class="icon-quo-left icon"></i>友情链接2</a>
-            </li>
-          
-            <li class="search-li">
-              <a href="http://localhost:4000/" target="_blank" class="search-title"><i class="icon-quo-left icon"></i>友情链接3</a>
-            </li>
-          
-            <li class="search-li">
-              <a href="http://localhost:4000/" target="_blank" class="search-title"><i class="icon-quo-left icon"></i>友情链接4</a>
-            </li>
-          
-            <li class="search-li">
-              <a href="http://localhost:4000/" target="_blank" class="search-title"><i class="icon-quo-left icon"></i>友情链接5</a>
-            </li>
-          
-            <li class="search-li">
-              <a href="http://localhost:4000/" target="_blank" class="search-title"><i class="icon-quo-left icon"></i>友情链接6</a>
-            </li>
-          
-        </ul>
   		
     	</section>
     
